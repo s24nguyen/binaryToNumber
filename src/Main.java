@@ -10,7 +10,7 @@ public class Main {
         System.out.println("You entered: " + buffer + " for conversion.\n");
         System.out.println("Processing the data...");
         System.out.println("Decimal number is: " + Binary2Decimal(buffer));
-        
+        System.out.println("this was made by steven (snguyen@oakland.edu");
     }
     private static int Binary2Decimal (String binary){
         int result = 0;
